@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pacman -S $(<'/home/sergey/cloudgit/pacmans')
+sudo pacman -Syu $(<'/home/sergey/cloudgit/pacmans')

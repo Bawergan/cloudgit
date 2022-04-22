@@ -10,6 +10,7 @@ libxnvctrl
 
 git
 github-cli
+wget
 unzip
 unrar
 thunar
